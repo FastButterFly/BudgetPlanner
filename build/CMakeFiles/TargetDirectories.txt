@@ -1,0 +1,3 @@
+/home/user/Projekty/C++/BudgetPlanner/build/CMakeFiles/BudgetPlanner.dir
+/home/user/Projekty/C++/BudgetPlanner/build/CMakeFiles/edit_cache.dir
+/home/user/Projekty/C++/BudgetPlanner/build/CMakeFiles/rebuild_cache.dir
